@@ -2,6 +2,7 @@
 - [Destination Certification - CISSP MindMaps](https://www.youtube.com/playlist?list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu) Youtube
 - [Pete Zerger - CISSP Exam Cram Full Course (All 8 Domains)](https://www.youtube.com/watch?v=_nyZhYnCNLA) Youtube
 - [Pete Zerger - CISSP Exam Cram - 2024 Addendum](https://www.youtube.com/watch?v=XZr2wLKdoVc) Youtube
+- [Pete Zerger - CISSP Exam Playlist - MUST](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD) Youtube
 
 **CISSP Mindset** 
 - [50 CISSP Practice Questions. Master the CISSP Mindset](https://www.youtube.com/watch?v=qbVY0Cg8Ntw) Youtube
@@ -40,6 +41,7 @@
 **Summarized Information**
 - [Sunflower CISSP Layout](https://www.sunflower-cissp.com/downloads/sunflower_cissp_layout.pdf).
 - [Comparitech Cheat Sheet](/files/Comparitech%20CISSP%20Cheat%20Sheet.pdf)
+- [Memory Palace] (https://www.studynotesandtheory.com/single-post/memory-palace-cissp-notes)
  
 **Other CISSP Github Repositories**
 - [so87 - CISSP Study Guide](https://simonowens157.gitlab.io/cissp/)
