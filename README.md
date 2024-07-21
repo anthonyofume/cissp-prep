@@ -15,7 +15,7 @@
 - [Prabh Nair - Question Series](https://www.youtube.com/playlist?list=PL0hT6hgexlYxZWJFIZbOqpkbKCT3u0ILe) Youtube
 - [50 CISSP Practice Questions. Master the CISSP Mindset](https://www.youtube.com/watch?v=qbVY0Cg8Ntw) Youtube
 - [Destination Certification - Questions](https://www.youtube.com/watch?v=tGdeTS7AN1c&list=PLZKdGEfEyJhKj-23-CysVjNRctFw47CGc) Youtube
-- [IT Dojo - Questions](https://www.youtube.com/watch?v=jZSAZ1neFZk&list=PLBpnwlO9U5unYmbZp2DJETNOHg8s_yW37) Youtube
+- [250 CISSP Questions](https://www.simplilearn.com/cissp-exam-prep-free-practice-test) Simplilearn
 
 **Practice Question Engine**
 - [LearnZapp - CISSP](https://learnzapp.com/apps/cissp/index.html)
